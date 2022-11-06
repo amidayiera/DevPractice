@@ -12,9 +12,8 @@ class Student(models.Model):
 
 
     def __str__(self):
-        # retunrs a str rep of object
+        # returns a str rep of object
         # applies to python classes in general
         # added to a model to provide a human readable version of hte model in django admin
 
         return f'Student: {self.first_name} {self.last_name}'
-
