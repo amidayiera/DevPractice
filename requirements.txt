@@ -1,0 +1,16 @@
+asgiref==3.5.2
+astroid==2.12.11
+backports.zoneinfo==0.2.1
+certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_0ek9yztvu3/croot/certifi_1665076692562/work/certifi
+dill==0.3.5.1
+Django==4.1.2
+isort==5.10.1
+lazy-object-proxy==1.7.1
+mccabe==0.7.0
+platformdirs==2.5.2
+pylint==2.15.4
+sqlparse==0.4.3
+tomli==2.0.1
+tomlkit==0.11.5
+typing_extensions==4.4.0
+wrapt==1.14.1
