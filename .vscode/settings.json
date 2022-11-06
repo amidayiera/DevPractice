@@ -1,0 +1,14 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintArgs": ["--disable=C0111"],
+
+    // pylint: disable=missing-module-docstring
+    // # pylint: disable=missing-class-docstring
+    // # pylint: disable=missing-function-docstring
+    // # pylint: disable=invalid-name
+    // # pylint: disable=trailing-newlines
+    // # pylint: disable=trailing-whitespace
+    // # pylint: disable=missing-final-newline
+}
